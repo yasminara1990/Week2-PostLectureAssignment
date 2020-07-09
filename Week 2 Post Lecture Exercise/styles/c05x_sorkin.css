@@ -1,0 +1,40 @@
+html{
+    background-color: yellow;
+}
+
+body {
+	width: 650px;
+    margin: auto;
+    border-style: double;
+    border-color: blue;
+    border-width: 10px;
+    background-color: white;
+}
+main{
+    
+    padding: 1.1em;
+}
+footer{
+    
+    border-top-style: solid;
+    margin: 1em;
+}
+h1{
+    font-size: 1.5em;
+    color: blue;
+}
+h2{
+    font-size: 120%;
+    margin-bottom: 0.5em;
+}
+h3{
+    font-size: 115%;
+}
+.cite{
+    text-align: right;
+}
+image{
+    float:left;
+    margin: 0.25em;
+    padding: 0.1em;
+}
